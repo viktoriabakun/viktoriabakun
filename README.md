@@ -4,6 +4,7 @@
 ## In the future I want to try myself as a public speaker at IT-conferences and maybe a fullstack developer (who knows!). Also my aim is to become a creative developer to have both the design perspective of interfaces and the coding skills. Such a long journey! :)
 
 ## 💼 [Portfolio](https://viktoriabakun.github.io/Portfolio)
+## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Bakun_Viktoryia_Frontend_Developer.pdf)
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
