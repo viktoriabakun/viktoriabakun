@@ -1,5 +1,5 @@
 # Hi, my name is **Viktoryia Bakun**!
-## I'm a frontend developer from Belarus, Minsk. I have experience in creating Landing Pages and SPA.
+## I'm a frontend developer from Belarus, Minsk.
 ## I'm keen on solving katas on 👩‍💻 [codewars](https://www.codewars.com/users/viktoriabakun) and watching IT-conferences. 
 
 ## 💼 [Portfolio](https://viktoriabakun.github.io/Portfolio)
