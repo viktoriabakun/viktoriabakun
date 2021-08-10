@@ -1,9 +1,9 @@
 # Hi, my name is **Viktoryia Bakun**!
 ## I'm a frontend developer from Belarus, Minsk.
-## I'm keen on solving katas on 👩‍💻 [codewars](https://www.codewars.com/users/viktoriabakun) and watching IT-conferences. 
 
 ## 💼 [Portfolio](https://viktoriabakun.github.io/Portfolio)
 ## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf)
+## [codewars](https://www.codewars.com/users/viktoriabakun)
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
