@@ -12,6 +12,6 @@
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
 
-### ✉️ Mail: viktoriabakun00@gmail.com
-### 🌐 [Telegram:](https://t.me/Vusen) @Vusen
-### 🌐 [LinkedIn: ](https://www.linkedin.com/in/viktoryiabakun/) Viktoryia Bakun
+#### ✉️ Mail: viktoriabakun00@gmail.com
+#### 🌐 [Telegram:](https://t.me/Vusen) @Vusen
+#### 🌐 [LinkedIn: ](https://www.linkedin.com/in/viktoryiabakun/) Viktoryia Bakun
