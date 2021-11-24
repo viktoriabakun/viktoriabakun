@@ -1,10 +1,6 @@
 # Hi, my name is **Viktoryia Bakun**!
 ## I'm a frontend developer from Belarus, Minsk.
 
-## 💼 [Portfolio](https://viktoriabakun.github.io/Portfolio)
-## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf)
-## [codewars](https://www.codewars.com/users/viktoriabakun)
-
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
@@ -16,6 +12,6 @@
 ![UNIT-TESTS](https://img.shields.io/badge/-Unit&#032;Tests-090909?style=for-the-badge)
 
 
-### ✉️ Mail me: viktoriabakun00@gmail.com
+### ✉️ Mail: viktoriabakun00@gmail.com
 ### 🌐 [Telegram:](https://t.me/Vusen) @Vusen
 ### 🌐 [LinkedIn: ](https://www.linkedin.com/in/viktoryiabakun/) Viktoryia Bakun
