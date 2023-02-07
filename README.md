@@ -13,5 +13,4 @@
 
 
 #### ✉️ Mail: viktoriabakun00@gmail.com
-#### 🌐 [Telegram:](https://t.me/Vusen) @Vusen
 #### 🌐 [LinkedIn: ](https://www.linkedin.com/in/viktoryiabakun/) Viktoryia Bakun
