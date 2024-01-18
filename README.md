@@ -1,5 +1,5 @@
-#### Hi, my name is Viktoryia!
-#### I'm a Frontend Developer living in Warsaw.
+### Hi, my name is Viktoryia!
+### I'm a Frontend Developer living in Warsaw.
 
 #### My main stack:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
