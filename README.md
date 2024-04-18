@@ -47,3 +47,5 @@
 <br/>
 
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/viktoriabakun/viktoriabakun/blob/main/media/crazy-marquee.svg" />
+
+<div align="center">ฅ^•ﻌ•^ฅ</div>
