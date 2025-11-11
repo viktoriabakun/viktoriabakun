@@ -3,11 +3,5 @@
 <br />
 
 <div align="center">
-  <a href="https://codepen.io/collection/xewYPM">... and have a giggle at my CodePen :)</a>
-</div>
-
-<br />
-
-<div align="center">
   <img width="30%" src="https://github.com/viktoriabakun/viktoriabakun/blob/main/media/aaa-panic.gif" alt="sth crazy is going on here" />
 </div>
